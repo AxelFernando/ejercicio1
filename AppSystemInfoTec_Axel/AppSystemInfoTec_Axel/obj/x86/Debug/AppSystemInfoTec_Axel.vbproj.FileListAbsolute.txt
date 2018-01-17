@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\bin\Debug\AppSystemInfoTec_Axel.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\bin\Debug\AppSystemInfoTec_Axel.pdb
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\bin\Debug\AppSystemInfoTec_Axel.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\obj\x86\Debug\AppSystemInfoTec_Axel.Resources.resources
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\obj\x86\Debug\AppSystemInfoTec_Axel.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\obj\x86\Debug\AppSystemInfoTec_Axel.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\obj\x86\Debug\AppSystemInfoTec_Axel.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Axel\AppSystemInfoTec_Axel\obj\x86\Debug\AppSystemInfoTec_Axel.pdb
